@@ -22,6 +22,17 @@ This project demonstrates **data analysis and visualization** using three essent
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/AamirNeyazi2499/exploratory-data-analysis.git
 cd data-analysis-with-python
+
+### 2. Create Virtual Environment (Optional but Recommended) 
+python -m venv venv        
+source venv/bin/activate     # On Mac/Linux      
+venv\Scripts\activate        # On Windows
+
+### 3. Install Dependencies
+pip install numpy pandas matplotlib
+
+### 4. Run the Program
+just press (shift + enter) in your code shell or press the run button which is located on the upper side of code editor
